@@ -1,0 +1,7 @@
+Metric,Value
+Training Pearson R²,0.9329870575622388
+Test Pearson R²,0.7072005411495491
+Mean Prediction Error,0.52778026944594
+Mean Absolute Error,0.6110399296547951
+Best-Fit Slope,0.646629407743777
+Best-Fit Intercept,0.3686438008653108
